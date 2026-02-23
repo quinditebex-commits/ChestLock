@@ -1,0 +1,5 @@
+name: ChestLock
+version: 1.0
+main: com.example.chestlock.ChestLockPlugin
+api-version: 1.20
+description: Zabezpiecz skrzynie kodem PIN!
